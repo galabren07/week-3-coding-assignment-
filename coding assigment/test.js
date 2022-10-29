@@ -79,7 +79,7 @@ console.log("this is the last element of my pizza array:",pizza[pizza.length -1]
 /*
 4.	How do you access the first element of any array?
 */
-var arrayOne = [7,8,9]
+var arrayOne = [7,8,9,11]
 function getFirstValue(someArray){
     return someArray[0];
 }
